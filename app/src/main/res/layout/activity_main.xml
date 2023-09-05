@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashActivity"
+    android:background="@color/black"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_weight="1"
+        android:id="@+id/textview1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/engineer_hand"
+        android:lineHeight="70dp"
+        android:gravity="center"
+        android:text="Civil\nEngineering\nManual"
+        android:textColor="@color/white"
+        android:textSize="70sp" />
+
+
+    <TextView
+        android:layout_weight="1"
+        android:gravity="center"
+        android:id="@+id/textview4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SFD, BMD\nAnd Deflection"
+        android:textColor="@color/white"
+        android:fontFamily="@font/engineer_hand"
+        android:textSize="40sp"/>
+
+
+
+    <TextView
+        android:layout_weight="1"
+        android:gravity="bottom|center"
+        android:id="@+id/textview6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Developed by: Harsh Sharma"
+        android:textColor="@color/white"
+        android:fontFamily="@font/engineer_hand"
+        android:textSize="25sp"/>
+</LinearLayout>
+

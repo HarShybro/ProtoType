@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ProtoType</string>
+    <string name="diagram">Diagram</string>
+    <string name="W">w [KN] </string>
+    <string name="colon">:</string>
+    <string name="unit1">KN</string>
+    <string name="L">Length [m] </string>
+    <string name="m">m</string>
+    <string name="x">&#8291;&#64;x [m]</string>
+    <string name="result">Result</string>
+    <string name="result1">Total Equiv. Uniform Load (wL)</string>
+    <string name="result2">Reaction (R)/ Shear (V) </string>
+    <string name="result3">Shear at x (Vₓ)</string>
+    <string name="result4">Max. Moment (at Center)</string>
+    <string name="result5">Moment at x (Mₓ)</string>
+    <string name="deflection">DEFLECTION</string>
+    <string name="E">Modulus of Elasticity [N/mm&#178;]</string>
+    <string name="unit3">N/mm&#178;</string>
+    <string name="I">Moment of Inertia [m&#8308;]</string>
+    <string name="unit4">mm&#8308;</string>
+    <string name="result6">Max. Deflection (at center)</string>
+    <string name="result7">Deflection at x  </string>
+
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+
+    <string name="clear">C</string>
+    <string name="exponent">^</string>
+    <string name="parentheses">( )</string>
+    <string name="divide">÷</string>
+    <string name="multiply">×</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="plusMinus">+/-</string>
+    <string name="point">.</string>
+    <string name="equals">=</string>
+
+    <string name="backspace">backspace</string>
+
+
+    <string name="display">Enter a value</string>
+
+    <!-- AdMob   -->
+    <string name="app_id">ca-app-pub-7169368446503452~4137712360</string>
+    <string name="banner_ad_unit">ca-app-pub-7169368446503452/9091544193</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="resultTitle">RESULT</string>
+
+</resources>
